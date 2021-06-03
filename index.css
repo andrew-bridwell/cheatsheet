@@ -1,0 +1,51 @@
+* {
+    font-family: Courier;
+    background-color: #000000;
+  }
+
+  a {
+      text-decoration: underline;
+      color: #33ff00;
+  }
+  
+  table {
+    width: 60%;
+    border: 3px solid #33ff00;
+    margin: auto;
+    text-align: left;
+    color: #33ff00;
+    border-collapse: collapse;
+  }
+
+  th {
+      text-align: left;
+      padding: 5px;
+      border: 1px solid #33ff00;
+  }
+
+  td {
+      padding: 5px;
+      border: 1px solid #33ff00;
+  }
+
+h1, h2 {
+    text-align: center;
+    color: #33ff00;
+}
+
+p {
+    text-align: center;
+    margin: auto;
+    color: #33ff00;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    color: #33ff00; 
+    margin: 20px 0;
+}
+
+.pmax-width {
+    max-width: 60%;
+}
